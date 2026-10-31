@@ -1,0 +1,41 @@
+{
+  "source_repository": "smart-primate/Named_Entity_Recognition_Healthcare_Data",
+  "commit": "e1f81f66c2a0fc59999eb86d6198af455b61f821",
+  "license": {
+    "key": "mit",
+    "name": "MIT License",
+    "spdx_id": "MIT",
+    "url": "https://api.github.com/licenses/mit",
+    "node_id": "MDc6TGljZW5zZTEz"
+  },
+  "files": [
+    {
+      "filename": "test_label",
+      "url": "https://raw.githubusercontent.com/smart-primate/Named_Entity_Recognition_Healthcare_Data/e1f81f66c2a0fc59999eb86d6198af455b61f821/Data/test_label",
+      "sha256": "8a5299f802f73feb5249380621e0f422e3946760db8b9c32c1eae380ee0a0b1a",
+      "bytes": 38292,
+      "tokens": 18618
+    },
+    {
+      "filename": "test_sent",
+      "url": "https://raw.githubusercontent.com/smart-primate/Named_Entity_Recognition_Healthcare_Data/e1f81f66c2a0fc59999eb86d6198af455b61f821/Data/test_sent",
+      "sha256": "8b728cf2e3b50aca59c8c4e5a3c8c5fc15fcf5a88258199c94e80e25bfd80323",
+      "bytes": 121020,
+      "tokens": 18618
+    },
+    {
+      "filename": "train_label",
+      "url": "https://raw.githubusercontent.com/smart-primate/Named_Entity_Recognition_Healthcare_Data/e1f81f66c2a0fc59999eb86d6198af455b61f821/Data/train_label",
+      "sha256": "da8c7d9c1ae66af532b49b7ea52d67552bfd9bd8c9c5e2b302774e360dccbf69",
+      "bytes": 94403,
+      "tokens": 45902
+    },
+    {
+      "filename": "train_sent",
+      "url": "https://raw.githubusercontent.com/smart-primate/Named_Entity_Recognition_Healthcare_Data/e1f81f66c2a0fc59999eb86d6198af455b61f821/Data/train_sent",
+      "sha256": "a4ad1412bd251ab5b19f8c2e25a6bdd32808d919475c0c3acbfa91d5db3dc176",
+      "bytes": 301650,
+      "tokens": 45902
+    }
+  ]
+}
