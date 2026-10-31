@@ -1,0 +1,7 @@
+# Stable releases verified from PyPI on 2026-11-01.
+ipykernel==7.4.0
+jupyterlab==4.6.5
+nbformat==5.11.1
+pandas==3.1.0
+sklearn-crfsuite==0.5.0
+spacy==3.8.18
